@@ -1,2 +1,3 @@
-# HostSwitcher
-make host switching easier
+# hostswitcher
+
+> make host switching easier
